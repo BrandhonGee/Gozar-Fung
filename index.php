@@ -87,7 +87,7 @@
 
         <form name="myForm" onsubmit="return validateForm()" method="POST" style="background-color:rgb(190, 215, 229); ">
           <div class="col-sm-12"> 
-          <h1 class="border-bottom center pb-3 mb-4" style="text-align: center;">Simple Form</h1>
+          <h1 class="border-bottom center pb-3 mb-4" style="text-align: center;">Maze Registration Form</h1>
         </div> 
 
                 <div class="form-group row">
